@@ -1,1 +1,1 @@
-#{ TailwindCSS & HTML }
+# { TailwindCSS & HTML }
